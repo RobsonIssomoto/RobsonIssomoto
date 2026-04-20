@@ -32,7 +32,7 @@ Abaixo estão algumas das linguagens, frameworks e ferramentas com as quais tenh
   <img align="left" alt="MongoDB" title="MongoDB" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align="left" alt="Docker" title="Docker" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="left" alt="Kubernetes" title="Kubernetes" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="35px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/github/white" >
+<img align="left" alt="GitHub" title="GitHub" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
 
 <br/>
