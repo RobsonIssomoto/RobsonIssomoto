@@ -5,7 +5,7 @@
 Sou um estudante de tecnologia movido pela curiosidade e pelo desejo de criar soluções eficientes. Tenho um forte interesse em explorar tecnologias diversas e entender como as coisas funcionam por baixo dos panos para resolver problemas reais. Concilio minha rotina profissional com os estudos, mantendo sempre o foco no aprendizado contínuo.
 </p>
 
-🚀 Sobre Mim
+### 🚀 Sobre Mim
 - 🎓 Cursando **Desenvolvimento de Software Multiplataforma** na **FATEC Atibaia**.
 - 📚 Sou Técnico em **Desenvolvimento de Sistemas pela ETEC** e também estudei Análise e Desenvolvimento de Sistemas no **IFSP (Instituto Federal de Educação, Ciência e Tecnologia Bragança Paulista)**.
 - 💡 Tenho grande interesse no desenvolvimento Full-Stack e em práticas de infraestrutura e DevOps (como conteinerização e orquestração).
@@ -41,6 +41,10 @@ Abaixo estão algumas das linguagens, frameworks e ferramentas com as quais tenh
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonIssomoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub"/>
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonIssomoto&layout=compact&theme=tokyonight&custom_title=Linguagens%20Mais%20Utilizadas"/>
+</div>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
