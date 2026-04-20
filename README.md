@@ -42,7 +42,7 @@ Abaixo estão algumas das linguagens, frameworks e ferramentas com as quais tenh
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonIssomoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonIssomoto&layout=compact&theme=tokyonight&custom_title=Linguagens%20Mais%20Utilizadas"/>
