@@ -7,7 +7,7 @@ Sou um estudante de tecnologia movido pela curiosidade e pelo desejo de criar so
 
 🚀 Sobre Mim
 - 🎓 Cursando **Desenvolvimento de Software Multiplataforma** na **FATEC Atibaia**.
-- 📚 Sou Técnico em **Desenvolvimento de Sistemas pela ETEC** e também estudei no **IFSP (Instituto Federal de Educação, Ciência e Tecnologia Bragança Paulista)**.
+- 📚 Sou Técnico em **Desenvolvimento de Sistemas pela ETEC** e também estudei Análise e Desenvolvimento de Sistemas no **IFSP (Instituto Federal de Educação, Ciência e Tecnologia Bragança Paulista)**.
 - 💡 Tenho grande interesse no desenvolvimento Full-Stack e em práticas de infraestrutura e DevOps (como conteinerização e orquestração).
 - 🛠️ Atualmente, estou focado no desenvolvimento de um sistema de gerenciamento de documentação de estágio usando a stack MERN.
 
